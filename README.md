@@ -2,11 +2,13 @@
 
 ### BACKGROUND: 
 
-Identify communities from ~38,000 movies via two graph algorithms: 
+The following .ipynb file is a theoretical project to identify communities from the MovieLens database (~38,000 movies) via two graph algorithms: 
 
 - Label Propagation (Community Detection Algorithm)
 - K-Nearest Neighbors (Similarity Algorithm) 
 
+
+Theoretically, a similar implementation could be used used by movie or streaming service (Netflix) executives to shortlist movies to fund for the future based on the success of historical productions.
 
 ---
 
