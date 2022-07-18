@@ -9,9 +9,11 @@ The following .ipynb file is a theoretical project to identify communities from 
 
 Theoretically, a similar implementation could be used used by movie or streaming service (Netflix) executives to shortlist movies to fund for the future based on the success of historical productions.
 
-1. Model the Movie graph with the COMMUNITY DETECTION algorithm to find subcommunities
+The code and subsequent findings progress in 3x phases:
 
-2. Model the Movie graph with the SIMILARITY algorithm
+1. Model the Movie graph with the COMMUNITY DETECTION algorithm to find subcommunities.
+
+2. Model the Movie graph with the SIMILARITY algorithm.
 
 3. Select the top five movies from each algorithm, remove duplicates, and then gather a list of Directors and Actors to contact for availability.
 
