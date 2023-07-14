@@ -2,7 +2,7 @@
 
 ### BACKGROUND: 
 
-The following .ipynb file is a theoretical project to identify communities from the MovieLens database (~38,000 movies) via two graph algorithms: 
+The following .ipynb file is a theoretical project to identify communities from the MovieLens database (~38,000 movies) via two graph algorithms utilizing Neo4j (and its Cypher programming language): 
 
 - Label Propagation (Community Detection Algorithm)
 - K-Nearest Neighbors (Similarity Algorithm) 
